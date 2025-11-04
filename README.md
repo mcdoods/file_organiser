@@ -1,7 +1,6 @@
 # 📁 File Organiser
 A lightweight Python utility which organises files based on file type.
 
----
 ## Features
 - Automatically sorts files into subfolders by type (images, documents, etc.)
 - Supports a dry run to preview file movement
@@ -10,7 +9,6 @@ A lightweight Python utility which organises files based on file type.
 - Cleans up empty folders
 - Fully CLI-based, no GUI or dependencies
 
----
 ## Usage
 1. Clone this repo:
    ```bash
@@ -23,7 +21,6 @@ A lightweight Python utility which organises files based on file type.
    ```
 3. Select an option from the menu.
 
----
 ## Example Output
 ```
 Enter folder path: /home/jim/Documents
@@ -33,15 +30,12 @@ Enter folder path: /home/jim/Documents
 ```
 History logs are automatically saved to `file_organiser_history.txt`.
 
----
 ## Requirements
 - Python 3.8 or higher
 - No external libraries (only os, time, datetime, shutil)
 
----
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
----
 ## Author
 **Jim** / [mcdoods](https://github.com/mcdoods)
