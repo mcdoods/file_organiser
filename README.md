@@ -12,8 +12,8 @@ A lightweight Python utility which organises files based on file type.
 ## Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/mcdoods/file-organiser.git
-   cd file-organiser
+   git clone https://github.com/mcdoods/file_organiser.git
+   cd file_organiser
    ```
 2. Run the script:
    ```bash
